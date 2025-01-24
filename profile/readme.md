@@ -2,34 +2,30 @@
 
 <br>
 
-<a href="https://github.com/iamprogrammerlk">
-  <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
+<a href="https://appduplex.com">
+  <img src="https://avatars.githubusercontent.com/u/17584877?s=200&v=4" alt="appduplex" width="200">
 </a>
 
 <br>
 <br>
 
-# I am Programmer
-
-## Programming is like sex, I can't make a mistake.</h4>
+## Supercharge WordPress to the Next Level - a premium WordPress plugin development company.</h4>
 
 <br>
 
 ---
 
-#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
+#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin]
 
 ---
 
-[home]: https://iamprogrammer.lk
-[blog]: https://blog.iamprogrammer.lk
-[sponsors]: https://github.com/sponsors/iamprogrammerlk
-[discussions]: https://github.com/iamprogrammerlk/iamprogrammerlk/discussions
-[github]: https://github.com/iamprogrammerlk
-[youtube]: https://youtube.com/@iamprogrammerlk
-[x]: https://x.com/iamprogrammerlk
-[linkedin]: https://lk.linkedin.com/company/iamprogrammerlk
-[buymeacoffee]: https://buymeacoffee.com/iamprogrammerlk
+[home]: https://appduplex.com
+[blog]: https://blog.appduplex.com
+[discussions]: https://github.com/appduplex/appduplex/discussions
+[github]: https://github.com/appduplex
+[youtube]: https://youtube.com/@appduplex
+[x]: https://x.com/appduplex
+[linkedin]: https://lk.linkedin.com/company/appduplex
 
 <br>
 
